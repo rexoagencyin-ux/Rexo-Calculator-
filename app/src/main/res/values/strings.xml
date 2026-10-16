@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Rexo Calculator</string>
+    <string name="tab_percentage">Percentage</string>
+    <string name="tab_gst">Bill &amp; GST</string>
+    <string name="tab_weight">Weight</string>
+    <string name="tab_volume">Volume</string>
+    <string name="tab_discount">Discount</string>
+    
+    <string name="action_history">History</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_privacy">Privacy Policy</string>
+    <string name="action_currency">Currency</string>
+    
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="history_cleared">History cleared</string>
+    <string name="no_history_yet">No calculations recorded yet</string>
+    
+    <!-- Weight Calculator strings -->
+    <string name="mode_find_price">Find Price</string>
+    <string name="mode_find_quantity">Find Quantity</string>
+    <string name="rate_per_kg">Base Rate (per kg)</string>
+    <string name="desired_weight">Desired Weight</string>
+    <string name="budget_amount">Budget Amount</string>
+    
+    <!-- Volume Calculator strings -->
+    <string name="rate_per_liter">Base Rate (per Liter)</string>
+    <string name="desired_volume">Desired Volume</string>
+    
+    <!-- GST Calculator strings -->
+    <string name="add_gst">Add GST (+)</string>
+    <string name="remove_gst">Remove GST (-)</string>
+    <string name="original_amount">Original Amount</string>
+    <string name="gst_rate">Tax / GST Rate (%)</string>
+    
+    <!-- Discount Calculator strings -->
+    <string name="original_price">Original Price</string>
+    <string name="discount_percent">Discount (%)</string>
+    <string name="additional_coupon">Extra Coupon Discount (%)</string>
+</resources>
